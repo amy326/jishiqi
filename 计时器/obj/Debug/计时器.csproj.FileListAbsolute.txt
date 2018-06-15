@@ -1,0 +1,10 @@
+C:\Users\zyt\source\计时器\计时器\bin\Debug\计时器.exe.config
+C:\Users\zyt\source\计时器\计时器\bin\Debug\计时器.exe
+C:\Users\zyt\source\计时器\计时器\bin\Debug\计时器.pdb
+C:\Users\zyt\source\计时器\计时器\obj\Debug\计时器.csprojResolveAssemblyReference.cache
+C:\Users\zyt\source\计时器\计时器\obj\Debug\计时器.Form1.resources
+C:\Users\zyt\source\计时器\计时器\obj\Debug\计时器.Properties.Resources.resources
+C:\Users\zyt\source\计时器\计时器\obj\Debug\计时器.csproj.GenerateResource.cache
+C:\Users\zyt\source\计时器\计时器\obj\Debug\计时器.csproj.CoreCompileInputs.cache
+C:\Users\zyt\source\计时器\计时器\obj\Debug\计时器.exe
+C:\Users\zyt\source\计时器\计时器\obj\Debug\计时器.pdb
